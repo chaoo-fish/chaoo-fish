@@ -1,5 +1,5 @@
 ### Hi there 👋
- ![aa.png]([https://sansisuifeng-img.oss-cn-beijing.aliyuncs.com/202602031523448.png](https://github.cards/chaoo-fish?template=Heatmap))
+
 <!--
 **chaoo-fish/chaoo-fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
